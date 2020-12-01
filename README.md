@@ -1,12 +1,14 @@
 ### Hi there 👋
 
+My name is Manoj Niverthi and I'm a CS student at Georgia Tech -- go Jackets! I have interests in applied computing to solve-real world problems.
+
+- 🔭 I’m working in the Computational Lab for Web and Society at Georgia Tech 
+- 🌱 I’m learning about natural language processing and system architecture
 <!--
 **mniverthi/mniverthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
