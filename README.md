@@ -5,10 +5,7 @@ My name is Manoj Niverthi and I'm a Computer Science student at Georgia Tech -- 
 - 🔭 I’m working in the [Computational Lab for Web and Society](http://claws.cc.gatech.edu/) as an undergraduate researcher.
 - 🌱 I’m learning about natural language processing, systems architecture, and functional programming
 
-📫 How to reach me:
-
-- [LinkedIn](https://www.linkedin.com/in/manojniverthi)
-- [Email](manojniverthi@gatech.edu)
+📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/manojniverthi) or via [Email](manojniverthi@gatech.edu)
 <!--
 **mniverthi/mniverthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
