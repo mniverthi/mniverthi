@@ -6,6 +6,7 @@ My name is Manoj Niverthi and I'm a Computer Science student at Georgia Tech -- 
 - 🌱 I’m learning about natural language processing, systems architecture, and functional programming
 
 📫 How to reach me:
+
 - [LinkedIn](https://www.linkedin.com/in/manojniverthi)
 - [Email](manojniverthi@gatech.edu)
 <!--
