@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋🏽
 
 My name is Manoj Niverthi and I'm a Computer Science student at Georgia Tech -- go Jackets! I have interests in using applied computing to solve real-world problems.
 
