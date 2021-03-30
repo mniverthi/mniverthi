@@ -3,7 +3,7 @@
 My name is Manoj Niverthi and I'm a Computer Science student at Georgia Tech -- go Jackets! I have interests in using applied computing to solve real-world problems.
 
 - 🔭 I’m working in the [Computational Lab for Web and Society](http://claws.cc.gatech.edu/) as an undergraduate researcher.
-- 🌱 I’m learning about functional programming and network-based sequential modeling problems
+- 🌱 I’m learning about functional programming and sequential modeling problems
 
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/manojniverthi) or via [Email](manojniverthi@gatech.edu)
 <!--
