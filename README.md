@@ -1,9 +1,6 @@
 ### Hi there 👋🏽
 
-My name is Manoj Niverthi and I'm a Computer Science student at Georgia Tech -- go Jackets! I have interests in using applied computing to solve real-world problems.
-
-- 🔭 I’m working in the [Computational Lab for Web and Society](http://claws.cc.gatech.edu/) as an undergraduate researcher.
-- 🌱 I’m dabbling/interested in in functional programming and the intersection of systems and ML
+My name is Manoj Niverthi and I'm a Computer Science student at Georgia Tech -- go Jackets! I have an interest in using applied computing to solve real-world problems. Currently, I’m learning about the intersection between computer systems and machine learning.
 
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/manojniverthi) or via [Email](manojniverthi@gatech.edu)
 <!--
