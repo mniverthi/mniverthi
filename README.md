@@ -1,6 +1,6 @@
 ### Hi there 👋🏽
 
-My name is Manoj Niverthi and I'm a Computer Science student at Georgia Tech -- go Jackets! I have an interest in using applied computing to solve real-world problems. Currently, I’m learning about the intersection between computer systems and machine learning.
+My name is Manoj! I'm a Computer Science student at Georgia Tech -- go Jackets! I'm interested in using applied computing to solve real-world problems. Currently, I’m learning about the intersection between computer systems and machine learning.
 
 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/manojniverthi) or via [Email](manojniverthi@gatech.edu)
 <!--
